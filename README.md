@@ -1,7 +1,7 @@
 # Urban-Traffic-Optimization-
 This is data analysis project exploring the vehicle and pollution patterns at different location in Prayagraj.
 
-**Dataset**
+**Dataset Used:-**
 
 The dataset used for project is [DATA VISION original set.xlsx](https://github.com/user-attachments/files/20966000/DATA.VISION.original.set.xlsx). It contains the following columns:-
  * Timestamps
@@ -14,7 +14,7 @@ The dataset used for project is [DATA VISION original set.xlsx](https://github.c
  * Special events
  * Pollution levels
 
-**Methodology**
+**Methodology Used:-**
 
 1. **Data Loading:-**
    * Load the dataset from the Excel file using Pandas.
@@ -35,7 +35,7 @@ The dataset used for project is [DATA VISION original set.xlsx](https://github.c
    * Train a RandomForestRegressor model to predict vehicle_count.
    * Evaluate the model using MAE, MSE, and RMSE metrics.
 
-**Technology Used**
+**Technology Used:-**
    * **Programming Language:** Python
    * **Data Manipulation & Analysis:** Pandas, NumPy
    * **Machine Learning:** Scikit-learn
